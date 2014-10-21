@@ -4,7 +4,7 @@ Tags: chat, live chat software, instant chat, live chat, livechatinc alternative
 
 Requires at least: 3.3.1
 Tested up to: 4.0
-Stable tag: 4.0
+Stable tag: 1.0
 
 Live Chat is the fastest way to reach your customers. ChatNox adds a beautiful live-chat  widget to your website.
 
@@ -28,19 +28,12 @@ Our uncluttered interface ensures all information and tools are available to use
 
 **Testimonials**
 
-* We've seen a phenomenal rise in live enquiries on our website thanks to ChatNox! - Ritu Jain
-
+* We've seen a phenomenal rise in live enquiries on our website thanks to ChatNox! 
+  - Ritu Jain
 * After comparing various Chat Softwares, I picked up ChatNox and couldn’t be more happier! - Mikael Boström
 
-**Wordpress Setup Video**
 
-ChatNox wordpress plugin setup video:
-[youtube https://www.youtube.com/watch?v=53R2vE4vhoQ]
-
-Answer questions, close sales and provide instant support with ChatNox Live Chat. Delight your website visitors today!
-
-
-Benefits of ChatNox
+**Benefits of ChatNox**
 
 * Receive **live chats on IM** and a full featured web-chat interface.
 * Free to use plugin upto 20 chats per month - unlimited plan at $9.99/month
@@ -109,6 +102,13 @@ It's very simple. Just follow the easy steps listed below
 * Hit the install plugin button and you are done!
 * Refresh your Wordpress website to see the chat widget appear on your website.
 * Further customizations can be done in the ChatNox panel.
+
+**Wordpress Setup Video**
+
+ChatNox wordpress plugin setup video:
+[youtube https://www.youtube.com/watch?v=53R2vE4vhoQ]
+
+Answer questions, close sales and provide instant support with ChatNox Live Chat. Delight your website visitors today!
 
 
 *Thanks for using ChatNox* :)
