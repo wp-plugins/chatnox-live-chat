@@ -98,8 +98,6 @@ When you are offline, ChatNox takes offline-messages for you and send them via e
 
 == Installation ==
 
-*Server Requirements:* PHP5 with PHP Curl installed.
-
 *Wordpress versions:* Wordpress 3.3 or higher.
 
 **How should I setup ChatNox live chat for my site?**
