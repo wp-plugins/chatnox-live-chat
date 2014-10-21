@@ -6,7 +6,7 @@ Requires at least: 3.3.1
 Tested up to: 4.0
 Stable tag: 1.0
 
-Live Chat is the fastest way to reach your customers. ChatNox adds a beautiful live-chat  widget to your website.
+Live Chat is the fastest way to reach your customers. ChatNox adds a beautiful live-chat widget to your website.
 
 == Description ==
 
@@ -28,8 +28,7 @@ Our uncluttered interface ensures all information and tools are available to use
 
 **Testimonials**
 
-* We've seen a phenomenal rise in live enquiries on our website thanks to ChatNox! 
-  - Ritu Jain
+* We've seen a phenomenal rise in live enquiries on our website! - Ritu Jain
 * After comparing various Chat Softwares, I picked up ChatNox and couldn’t be more happier! - Mikael Boström
 
 
@@ -91,9 +90,7 @@ When you are offline, ChatNox takes offline-messages for you and send them via e
 
 == Installation ==
 
-*Wordpress versions:* Wordpress 3.3 or higher.
-
-**How should I setup ChatNox live chat for my site?**
+*RequiredWordpress versions:* Wordpress 3.3 or higher.
 
 It's very simple. Just follow the easy steps listed below
 
@@ -103,12 +100,15 @@ It's very simple. Just follow the easy steps listed below
 * Refresh your Wordpress website to see the chat widget appear on your website.
 * Further customizations can be done in the ChatNox panel.
 
-**Wordpress Setup Video**
+**How do setup ChatNox live chat for my site?**
+Read the Step-by-Step Tutorial
+http://www.chatnox.com/blog/free-chatnox-live-chat-plugin-for-wordpress/
 
-ChatNox wordpress plugin setup video:
+**Watch the Wordpress Live Chat Plugin for ChatNox Set-up Video**
+
 [youtube https://www.youtube.com/watch?v=53R2vE4vhoQ]
 
 Answer questions, close sales and provide instant support with ChatNox Live Chat. Delight your website visitors today!
 
 
-*Thanks for using ChatNox* :)
+**Feel free to e-mail support@chatnox.com if you need ny further help. We'd be happy to help you :)**
