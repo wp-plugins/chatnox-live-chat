@@ -1,4 +1,4 @@
-=== ChatNox Live Chat Software - Live Chat Plugin for Websites ===
+=== ChatNox Live Chat Software ===
 Contributors: ChatNox
 Tags: chat, live chat software, instant chat, live chat, livechatinc alternative, live chat inc, chat with visitors, web chat, webchat, zopim alternative, olark alternative,live help software, livehelp, livesupport, live support, IM Chat, online support,
 
