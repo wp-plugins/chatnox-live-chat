@@ -112,3 +112,8 @@ Answer questions, close sales and provide instant support with ChatNox Live Chat
 
 
 **Feel free to e-mail support@chatnox.com if you need ny further help. We'd be happy to help you :)**
+
+== Screenshots ==
+1. **Clean user interface** - Used by businesses in over 40 countries, Operators love the super clean and easy to use ChatNox user interface.
+2. **Attractive Chat-Windows with Customizable form fields in any language.**
+3. **Clutter-Free Operator Panel** - Everything you need in a live-chat system is there and yet uncluttered.
