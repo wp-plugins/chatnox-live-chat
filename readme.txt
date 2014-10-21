@@ -4,7 +4,7 @@ Tags: chat, live chat software, instant chat, live chat, livechatinc alternative
 
 Requires at least: 3.3.1
 Tested up to: 4.0
-Stable tag: 4.0
+Stable tag: 1.0
 
 Live Chat is the fastest way to reach your customers. ChatNox adds a beautiful live-chat  widget to your website.
 
