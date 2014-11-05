@@ -65,8 +65,9 @@ Yes. Live chat plugin is free to use for 1 operator and upto 20 chats per month.
 = What much do paid plans it cost? =
 
 **For webvisitor:** FREE. Your web visitors do not pay anything to live chat or call you to get their queries answered. 
-
 **For website owners:** FREE to receive and chat with upto 20 chats. To add more operators, departments or to upgrade to unlimited chats plan, please visit our <a href="http://www.ChatNox.com/pricing.html">pricing page</a>
+
+Unlimited Plans start at only $9.99/month
 
 
 = Do I have to install any hardware software on my premises to use this widget? =
