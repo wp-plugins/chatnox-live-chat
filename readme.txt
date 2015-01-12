@@ -14,7 +14,7 @@ ChatNox is a Super Easy live chat system that adds a beautiful live-chat widget 
 
 **Watch our intro video**
 
-[https://www.youtube.com/watch?v=aJyP1A-YiWs]
+[youtube https://www.youtube.com/watch?v=aJyP1A-YiWs]
 
 * Super-fast live chat system.
 * Real-time visitor monitoring allows you to see who’s on your website and chat with them.
