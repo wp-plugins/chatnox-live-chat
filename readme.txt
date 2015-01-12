@@ -1,9 +1,9 @@
-=== ChatNox Live Chat Software - Live Chat Plugin for Websites ===
+=== ChatNox Live Chat Software - Live Chat Plugin for Wordpress ===
 Contributors: ChatNox
-Tags: chat, live chat software, instant chat, live chat, livechatinc alternative, live chat inc, chat with visitors, web chat, webchat, zopim alternative, olark alternative,live help software, livehelp, livesupport, live support, IM Chat, online support,
-
+Donate link: https://wwww.chatnox.com
+Tags: chat, livechat, live, live chat, chatnox, chat nox, online chat, chat online, wordpress chat, customer support, live help, chat widget, customer help, chat widget
 Requires at least: 3.3.1
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 2.0
 
 Live Chat is the fastest way to reach your customers. ChatNox adds a beautiful live-chat  widget to your website.
@@ -12,40 +12,57 @@ Live Chat is the fastest way to reach your customers. ChatNox adds a beautiful l
 
 ChatNox is a Super Easy live chat system that adds a beautiful live-chat widget to your OpenCart Store. Engage with visitors on your website and convert more sales. Answer questions, provide support using ChatNox Live Chat.
 
-**Key Features**
 * Real-time visitor monitoring allows you to see who’s on your website and chat with them.
+
+* Pre-Fetched visitor geolocation data.
+
 * Trigger Proactive-Chat messages and engage with your website visitors.
+
 * Fully customizable chat widget. Use your own language, Colors and messaging.
+
+* Customizable canned responses
+
+* User chat ratings
+
+* Unlimited Chat Transcripts
+
 * Upload your own display pictures or choose from our profile avatars
+
 * Integrate your Facebook and Twitter accounts
+
 * See your visitors on a map.
+
 * Offline messaging allows your visitors to leave you messages when you are not online.
+
 * Easy to use web-chat interface.
+
 * Mobile IM integration on paid plans.
+
 * Free StickyBar to help generate leads and push discount coupons.
+
 * Zero installation - Fully hosted cloud application.
+
 * Awesome support.
 
-**Plans and Pricing**
+Plans and Pricing
 * Free for upto 20 chats/month. No credit card required for Free plans. 
+
 * Paid plans starts at $9.99/month and premium plan at $14.99/month. Pricing is per operator.
 
-**Testimonials**
+Testimonials
 * "We've seen a phenomenal rise in live enquiries on our website!" - Ritu Jain
+
 * "After comparing various Chat Softwares, I picked up ChatNox and couldn’t be more happier!" - Mikael Boström
 
 == Changelog ==
 
 = 1.0 =
-
-* New Plugin Released
-
+* New Plugin Released.
 = 2.0 =
-
-* Updated user interface
-* Mobile compatible chat widget
-* In-built Stickybar
-* Platform upgrades
+* Updated user interface.
+* Mobile compatible chat widget.
+* In-built StickyBar.
+* Platform upgrades.
 
 
 
