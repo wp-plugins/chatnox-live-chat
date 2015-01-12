@@ -44,12 +44,13 @@ ChatNox is a Super Easy live chat system that adds a beautiful live-chat widget 
 
 * Awesome support.
 
-Plans and Pricing
+**Plans and Pricing**
+
 * Free for upto 20 chats/month. No credit card required for Free plans. 
 
 * Paid plans starts at $9.99/month and premium plan at $14.99/month. Pricing is per operator.
 
-Testimonials
+**Testimonials**
 * "We've seen a phenomenal rise in live enquiries on our website!" - Ritu Jain
 
 * "After comparing various Chat Softwares, I picked up ChatNox and couldn’t be more happier!" - Mikael Boström
