@@ -37,15 +37,12 @@ ChatNox is a Super Easy live chat system that adds a beautiful live-chat widget 
 == Changelog ==
 
 = 1.0 =
-
-* New Plugin Released
-
+* New Plugin Released.
 = 2.0 =
-
-* Updated user interface
-* Mobile compatible chat widget
-* In-built Stickybar
-* Platform upgrades
+* Updated user interface.
+* Mobile compatible chat widget.
+* In-built StickyBar.
+* Platform upgrades.
 
 
 
