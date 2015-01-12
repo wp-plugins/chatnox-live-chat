@@ -1,4 +1,4 @@
-=== ChatNox Live Chat Software - Live Chat Plugin for Wordpress ===
+=== ChatNox - Free Live Chat Plugin for Wordpress ===
 Contributors: ChatNox
 Donate link: https://wwww.chatnox.com
 Tags: chat, livechat, live, live chat, chatnox, chat nox, online chat, chat online, wordpress chat, customer support, live help, chat widget, customer help, chat widget
@@ -43,16 +43,6 @@ ChatNox is a Super Easy live chat system that adds a beautiful live-chat widget 
 * Zero installation - Fully hosted cloud application.
 
 * Awesome support.
-
-Plans and Pricing
-* Free for upto 20 chats/month. No credit card required for Free plans. 
-
-* Paid plans starts at $9.99/month and premium plan at $14.99/month. Pricing is per operator.
-
-Testimonials
-* "We've seen a phenomenal rise in live enquiries on our website!" - Ritu Jain
-
-* "After comparing various Chat Softwares, I picked up ChatNox and couldn’t be more happier!" - Mikael Boström
 
 == Changelog ==
 
