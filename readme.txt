@@ -1,4 +1,4 @@
-=== ChatNox - Free Live Chat Plugin for Wordpress ===
+=== Live Chat - Free Live Chat Plugin for Wordpress ===
 Contributors: ChatNox
 Donate link: https://wwww.chatnox.com
 Tags: chat, livechat, live, live chat, chatnox, chat nox, online chat, chat online, wordpress chat, customer support, live help, chat widget, customer help, chat widget, website chat, hellobar, contacts bar, email bar, attention grabber
