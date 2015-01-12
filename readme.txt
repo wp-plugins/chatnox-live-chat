@@ -1,58 +1,49 @@
-=== ChatNox Live Chat Software ===
+=== ChatNox - Free Live Chat Plugin for Wordpress ===
 Contributors: ChatNox
-Tags: chat, live chat software, instant chat, live chat, livechatinc alternative, live chat inc, chat with visitors, web chat, webchat, zopim alternative, olark alternative,live help software, livehelp, livesupport, live support, IM Chat, online support,
-
+Donate link: https://wwww.chatnox.com
+Tags: chat, livechat, live, live chat, chatnox, chat nox, online chat, chat online, wordpress chat, customer support, live help, chat widget, customer help, chat widget, website chat, hellobar, contacts bar, email bar, attention grabber
 Requires at least: 3.3.1
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 1.0
 
-Live Chat is the fastest way to reach your customers. ChatNox adds a beautiful live-chat widget to your website.
+ChatNox is a popular Live Chat software used by business worldwide to engage with visitors in real time. Try it for free!
 
 == Description ==
 
-With ChatNox, you can see who's on your website, send targeted pro-active messages and chat with website visitors in real-time! ChatNox helps you convert your website visitors to happy customers.
+ChatNox is a Super Easy live chat system that adds a beautiful live-chat widget to your OpenCart Store. Engage with visitors on your website and convert more sales. Answer questions, provide support using ChatNox Live Chat.
 
-**EASY TO SET-UP LIVE CHAT**
-Simply activate the word-press plugin and enter your ChatNox user id and password. That's all it takes to add live chat to your word-press website.
+**Watch our intro video**
 
-**TRACK VISITORS LIVE**
-See a list of all visitors on your webpages. Send chat invitations easily.
+[youtube http://www.youtube.com/watch?v=aJyP1A-YiWs]
 
-**SEND TARGETED MESSAGES**
-Trigger messages automatically based on rules such as pages, duration, country etc.
-
-**SUPER EASY LIVE CHAT SYSTEM**
-Your live chat operators will find ChatNox very easy to understand and use.
-Our uncluttered interface ensures all information and tools are available to use when needed.
-
-
-**Testimonials**
-
-* We've seen a phenomenal rise in live enquiries on our website! - Ritu Jain
-* After comparing various Chat Softwares, I picked up ChatNox and couldn’t be more happier! - Mikael Boström
-
-
-**Benefits of ChatNox**
-
-* Receive **live chats on IM** and a full featured web-chat interface.
-* Free to use plugin upto 20 chats per month - unlimited plan at $9.99/month
-* Fully hosted cloud application.
-* Fully customizable - colors, themes, templates, position
-
-**Why should I install ChatNox live support plugin?**
-
-* Provide an opportunity for your web visitors to live chat with you
-* Instantly take your business to global audience
-* Provide live help and support to website visitors. 
-* Get more sales from increased customer base, conversions and customer satisfaction
-
-
+* Super-fast live chat system.
+* Real-time visitor monitoring allows you to see who’s on your website and chat with them.
+* Pre-Fetched visitor geolocation data to help you know your live chat visitor.
+* Trigger Proactive-live-Chat messages and engage with your website visitors.
+* Fully customizable chat widget. Use your own language, Colors and messaging.
+* Customizable canned responses to help during a chat.
+* User chat ratings helps you track your live chat experience.
+* Unlimited Live Chat Transcripts.
+* Upload your own display pictures or choose from our profile avatars.
+* Integrate your Facebook and Twitter accounts within the live chat widget.
+* See your website visitors on a map.
+* Offline messaging allows your visitors to leave you messages when you are not online to chat.
+* Easy to use web-chat interface.
+* Mobile IM integration on paid plans helps you take chats on your smartphone.
+* Free StickyBar to help generate leads and push discount coupons.
+* Zero installation - Fully hosted cloud application.
+* Awesome support.
+* 99.99% Uptime Guarantee ensures your live chat system is never down.
 
 == Changelog ==
 
 = 1.0 =
-
-* New Plugin Released
+* New Plugin Released.
+= Jan 2015 =
+* Updated user interface.
+* Mobile compatible chat widget.
+* In-built StickyBar.
+* Platform upgrades.
 
 
 
@@ -65,9 +56,8 @@ Yes. Live chat plugin is free to use for 1 operator and upto 20 chats per month.
 = What much do paid plans it cost? =
 
 **For webvisitor:** FREE. Your web visitors do not pay anything to live chat or call you to get their queries answered. 
-**For website owners:** FREE to receive and chat with upto 20 chats. To add more operators, departments or to upgrade to unlimited chats plan, please visit our <a href="http://www.ChatNox.com/pricing.html">pricing page</a>
 
-Unlimited Plans start at only $9.99/month
+**For website owners:** FREE to receive and chat with upto 20 chats. To add more operators, departments or to upgrade to unlimited chats plan, please visit our <a href="http://www.ChatNox.com/pricing.html">pricing page</a>
 
 
 = Do I have to install any hardware software on my premises to use this widget? =
@@ -91,7 +81,9 @@ When you are offline, ChatNox takes offline-messages for you and send them via e
 
 == Installation ==
 
-*RequiredWordpress versions:* Wordpress 3.3 or higher.
+*Wordpress versions:* Wordpress 3.3 or higher.
+
+**How should I setup ChatNox live chat for my site?**
 
 It's very simple. Just follow the easy steps listed below
 
@@ -101,20 +93,5 @@ It's very simple. Just follow the easy steps listed below
 * Refresh your Wordpress website to see the chat widget appear on your website.
 * Further customizations can be done in the ChatNox panel.
 
-**How do setup ChatNox live chat for my site?**
-Read the Step-by-Step Tutorial
-http://www.chatnox.com/blog/free-chatnox-live-chat-plugin-for-wordpress/
 
-**Watch the Wordpress Live Chat Plugin for ChatNox Set-up Video**
-
-[youtube https://www.youtube.com/watch?v=53R2vE4vhoQ]
-
-Answer questions, close sales and provide instant support with ChatNox Live Chat. Delight your website visitors today!
-
-
-**Feel free to e-mail support@chatnox.com if you need ny further help. We'd be happy to help you :)**
-
-== Screenshots ==
-1. **Clean user interface** - Used by businesses in over 40 countries, Operators love the super clean and easy to use ChatNox user interface.
-2. **Attractive Chat-Windows with Customizable form fields in any language.**
-3. **Clutter-Free Operator Panel** - Everything you need in a live-chat system is there and yet uncluttered.
+*Thanks for using ChatNox* :)
