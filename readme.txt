@@ -1,4 +1,4 @@
-=== Live Chat - Free Live Chat Plugin for Wordpress ===
+=== ChatNox Live Chat plugin for Wordpress ===
 Contributors: ChatNox
 Donate link: https://wwww.chatnox.com
 Tags: chat, livechat, live, live chat, chatnox, chat nox, online chat, chat online, wordpress chat, customer support, live help, chat widget, customer help, chat widget, website chat, hellobar, contacts bar, email bar, attention grabber
@@ -10,7 +10,7 @@ ChatNox is a popular Live Chat software used by business worldwide to engage wit
 
 == Description ==
 
-ChatNox is a Super Easy live chat system that adds a beautiful live-chat widget to your OpenCart Store. Engage with visitors on your website and convert more sales. Answer questions, provide support using ChatNox Live Chat.
+ChatNox is a Super Easy live chat system that adds a beautiful live-chat widget to your Wordpress website. Engage with visitors on your website and convert more sales. Answer questions, provide support using ChatNox Live Chat.
 
 **Watch our intro video**
 
