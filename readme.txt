@@ -4,9 +4,9 @@ Donate link: https://wwww.chatnox.com
 Tags: chat, livechat, live, live chat, chatnox, chat nox, online chat, chat online, wordpress chat, customer support, live help, chat widget, customer help, chat widget, website chat, hellobar, contacts bar, email bar, attention grabber
 Requires at least: 3.3.1
 Tested up to: 4.1
-Stable tag: 2.0
+Stable tag: 1.0
 
-Live Chat is the fastest way to reach your customers. ChatNox adds a beautiful live-chat  widget to your website.
+ChatNox is a popular Live Chat software used by business worldwide to engage with visitors in real time. Try it for free!
 
 == Description ==
 
@@ -14,7 +14,7 @@ ChatNox is a Super Easy live chat system that adds a beautiful live-chat widget 
 
 **Watch our intro video**
 
-[youtube https://www.youtube.com/watch?v=aJyP1A-YiWs]
+[youtube http://www.youtube.com/watch?v=aJyP1A-YiWs]
 
 * Super-fast live chat system.
 * Real-time visitor monitoring allows you to see who’s on your website and chat with them.
@@ -39,7 +39,7 @@ ChatNox is a Super Easy live chat system that adds a beautiful live-chat widget 
 
 = 1.0 =
 * New Plugin Released.
-= 2.0 =
+= Jan 2015 =
 * Updated user interface.
 * Mobile compatible chat widget.
 * In-built StickyBar.
