@@ -1,7 +1,7 @@
 === ChatNox - Free Live Chat Plugin for Wordpress ===
 Contributors: ChatNox
 Donate link: https://wwww.chatnox.com
-Tags: chat, livechat, live, live chat, chatnox, chat nox, online chat, chat online, wordpress chat, customer support, live help, chat widget, customer help, chat widget
+Tags: chat, livechat, live, live chat, chatnox, chat nox, online chat, chat online, wordpress chat, customer support, live help, chat widget, customer help, chat widget, website chat, hellobar, contacts bar, email bar, attention grabber
 Requires at least: 3.3.1
 Tested up to: 4.1
 Stable tag: 2.0
@@ -12,37 +12,28 @@ Live Chat is the fastest way to reach your customers. ChatNox adds a beautiful l
 
 ChatNox is a Super Easy live chat system that adds a beautiful live-chat widget to your OpenCart Store. Engage with visitors on your website and convert more sales. Answer questions, provide support using ChatNox Live Chat.
 
+**Watch our intro video**
+
+[https://www.youtube.com/watch?v=aJyP1A-YiWs]
+
+* Super-fast live chat system.
 * Real-time visitor monitoring allows you to see who’s on your website and chat with them.
-
-* Pre-Fetched visitor geolocation data.
-
-* Trigger Proactive-Chat messages and engage with your website visitors.
-
+* Pre-Fetched visitor geolocation data to help you know your live chat visitor.
+* Trigger Proactive-live-Chat messages and engage with your website visitors.
 * Fully customizable chat widget. Use your own language, Colors and messaging.
-
-* Customizable canned responses
-
-* User chat ratings
-
-* Unlimited Chat Transcripts
-
-* Upload your own display pictures or choose from our profile avatars
-
-* Integrate your Facebook and Twitter accounts
-
-* See your visitors on a map.
-
-* Offline messaging allows your visitors to leave you messages when you are not online.
-
+* Customizable canned responses to help during a chat.
+* User chat ratings helps you track your live chat experience.
+* Unlimited Live Chat Transcripts.
+* Upload your own display pictures or choose from our profile avatars.
+* Integrate your Facebook and Twitter accounts within the live chat widget.
+* See your website visitors on a map.
+* Offline messaging allows your visitors to leave you messages when you are not online to chat.
 * Easy to use web-chat interface.
-
-* Mobile IM integration on paid plans.
-
+* Mobile IM integration on paid plans helps you take chats on your smartphone.
 * Free StickyBar to help generate leads and push discount coupons.
-
 * Zero installation - Fully hosted cloud application.
-
 * Awesome support.
+* 99.99% Uptime Guarantee ensures your live chat system is never down.
 
 == Changelog ==
 
