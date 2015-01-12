@@ -40,7 +40,7 @@ ChatNox is a Super Easy live chat system that adds a beautiful live-chat widget 
 
 * New Plugin Released
 
-== 2.0 ==
+= 2.0 =
 
 * Updated user interface
 * Mobile compatible chat widget
