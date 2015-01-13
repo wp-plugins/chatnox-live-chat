@@ -10,7 +10,7 @@ ChatNox is a popular Live Chat software used by business worldwide to engage wit
 
 == Description ==
 
-ChatNox is a Super Easy live chat system that adds a beautiful live-chat widget to your Wordpress website. Engage with visitors on your website and convert more sales. Answer questions, provide support using ChatNox Live Chat.
+ChatNox is a Super Easy live chat system that adds a beautiful live-chat widget to your Wordpress website or blog. Engage with visitors on your website and convert more sales. Answer questions, provide support using ChatNox Live Chat.
 
 **Watch our intro video**
 
