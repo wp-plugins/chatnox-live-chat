@@ -1,7 +1,7 @@
 === ChatNox Live Chat plugin for Wordpress ===
 Contributors: ChatNox
 Donate link: https://wwww.chatnox.com
-Tags: chat, livechat, live, live chat, chatnox, chat nox, online chat, chat online, wordpress chat, customer support, live help, chat widget, customer help, chat widget, website chat, hellobar, contacts bar, email bar, attention grabber
+Tags: Chat, chat online, chat plugin, chat software, Chat Widget, customer help, customer support, free chat, free live chat, live chat, live chat plugin, live chat support plugin, live help, live support, live support plugin, online support, support, support plugin, visitor chat, WordPress chat, banckle, Chat, chat button, chat on IM, chat online, clickdesk, contact form, contact plugin, contact us, csupport, facebook chat, free chat, Google chat button, Gtalk button, gtalk chat, help desk, help desk software, helpdesk, IM Chat, live chat, live chat inc, live chat services, live chat software, live chatting, live help, live support, live web chat, livechat, livehelp, livesupport, offline, olark, online chat, online support, phone, php live chat, skype chat, SkypeMe, snapengage, support software, web chat, webchat, Website Chat, wordpress help desk, wordpress live chat, wordpress live chat plugin, zendesk, Zopim, Formilla, Pure Chat, Casengo
 Requires at least: 3.3.1
 Tested up to: 4.1
 Stable tag: 1.0
