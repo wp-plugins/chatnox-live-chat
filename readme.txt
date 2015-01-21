@@ -6,32 +6,33 @@ Requires at least: 3.3.1
 Tested up to: 4.1
 Stable tag: 1.0
 
-ChatNox is a popular Live Chat software used by business worldwide to engage with visitors in real time. Try it for free!
+ChatNox is a popular Live Chat software used by business worldwide to chat with visitors in real time. Try Live Chat for free!
 
 == Description ==
 
-ChatNox is a Super Easy live chat system that adds a beautiful live-chat widget to your Wordpress website or blog. Engage with visitors on your website and convert more sales. Answer questions, provide support using ChatNox Live Chat.
+ChatNox is a Super Easy live chat system that adds a beautiful live-chat widget to WordPress. Engage with visitors and convert more sales via live chat.
+Answer questions, provide support using ChatNox Live Chat.
 
 **Watch our intro video**
 
 [youtube http://www.youtube.com/watch?v=aJyP1A-YiWs]
 
 * Super-fast live chat system - Used in 80+ countries.
-* Real-time visitor monitoring allows you to see who’s on your website and chat with them.
+* Real-time visitor monitoring allows you to see who’s on your website and live chat with them.
 * Pre-Fetched visitor geolocation data to help you know your live chat visitor.
-* Trigger Proactive-live-Chat messages and engage with your website visitors.
-* Fully customizable chat widget. Use your own language, Colors and messaging.
-* Customizable canned responses to help during a chat.
-* User chat ratings helps you track your live chat experience.
+* Trigger Proactive live Chat messages and chat with your website visitors.
+* Fully customizable live chat widget. Use your own language, Colors and messaging.
+* Customizable canned responses to help during a live chat.
+* User live chat ratings helps you track your live chat experience.
 * Unlimited Live Chat Transcripts.
 * Upload your own display pictures or choose from our profile avatars.
-* Integrate your Facebook and Twitter accounts within the live chat widget.
+* Integrate your Facebook and Twitter accounts to the live chat widget.
 * See your website visitors on a map.
-* Offline messaging allows your visitors to leave you messages when you are not online to chat.
+* Offline messaging allows your visitors to leave you messages when you are not online to take live chat.
 * Easy to use web-chat interface.
-* Mobile IM integration on paid plans helps you take chats on your smartphone.
+* Mobile IM integration to take live chats on your smartphone.
 * Free StickyBar to help generate leads and push discount coupons.
-* Zero installation - Fully hosted cloud application.
+* Zero installation - Fully hosted cloud live chat system.
 * Awesome support.
 * 99.99% Uptime Guarantee ensures your live chat system is never down.
 
