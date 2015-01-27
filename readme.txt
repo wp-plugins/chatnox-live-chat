@@ -27,7 +27,7 @@ Answer questions, provide support using ChatNox Live Chat.
 * Unlimited Live Chat Transcripts.
 * Upload your own display pictures or choose from our profile avatars.
 * Integrate your Facebook and Twitter accounts to the live chat widget.
-* See your website visitors on a map.
+* See your website visitors on a map when you live chat.
 * Offline messaging allows your visitors to leave you messages when you are not online to take live chat.
 * Easy to use web-chat interface.
 * Mobile IM integration to take live chats on your smartphone.
