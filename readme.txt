@@ -45,6 +45,9 @@ Answer questions, provide support using ChatNox Live Chat.
 * Mobile compatible chat widget.
 * In-built StickyBar.
 * Platform upgrades.
+= Feb 2015 =
+* Full new user interface
+* Platform upgrades.
 
 == Screenshots ==
 
