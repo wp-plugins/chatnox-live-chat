@@ -35,6 +35,7 @@ Answer questions, provide support using ChatNox Live Chat.
 * Zero installation - Fully hosted cloud live chat system.
 * Awesome support.
 * 99.99% Uptime Guarantee ensures your live chat system is never down.
+* Integrations available for other third party services like Zendesk and Helpscout.
 
 == Changelog ==
 
