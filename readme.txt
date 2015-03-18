@@ -50,6 +50,8 @@ Answer questions, provide support using ChatNox Live Chat.
 * Full new user interface
 * Platform upgrades.
 * Advanced Mobile View Settings
+= March 2015 ==
+* Modificationsin chat handling
 
 == Screenshots ==
 
