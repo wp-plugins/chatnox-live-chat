@@ -55,9 +55,11 @@ Answer questions, provide support using ChatNox Live Chat.
 
 == Screenshots ==
 
-1. A
-2. B
-3. C
+1. Easy and intuitive Operator console.
+2. Customizable Chat Widget. Change colors and various options.
+3. In-built Reporting.
+4. Pre-chat survey options and chat widget.
+5. Twitter Feed Integrated in chat widget.
 
 
 
