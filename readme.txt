@@ -52,6 +52,9 @@ Answer questions, provide support using ChatNox Live Chat.
 * Advanced Mobile View Settings
 = March 2015 ==
 * Modificationsin chat handling
+* Advanced Localization Options added.
+* Scrollbar bug fixed for both widget and operator side
+
 
 == Screenshots ==
 
