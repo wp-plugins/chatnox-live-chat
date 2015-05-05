@@ -3,7 +3,7 @@ Contributors: Chatnox
 Donate link: https://wwww.chatnox.com
 Tags: live chat for wordpress, Chat, chat online, chat plugin, chat software, Chat Widget, customer help, customer support, free chat, free live chat, live chat, live chat plugin, live chat support plugin, live help, live support, live support plugin, online support, support, support plugin, visitor chat, WordPress chat, banckle, Chat, chat button, chat on IM, chat online, clickdesk, contact form, contact plugin, contact us, csupport, facebook chat, free chat, Google chat button, Gtalk button, gtalk chat, help desk, help desk software, helpdesk, IM Chat, live chat, live chat inc, live chat services, live chat software, live chatting, live help, live support, live web chat, livechat, livehelp, livesupport, offline, olark, online chat, online support, phone, php live chat, skype chat, SkypeMe, snapengage, support software, web chat, webchat, Website Chat, wordpress help desk, wordpress live chat, wordpress live chat plugin, zendesk, Zopim, Formilla, Pure Chat, Casengo
 Requires at least: 3.3.1
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.0
 
 Chatnox is a popular Live Chat software used by business worldwide to chat with visitors in real time. Try Live Chat for free!
@@ -54,6 +54,8 @@ Answer questions, provide support using Chatnox Live Chat.
 * Modificationsin chat handling
 * Advanced Localization Options added.
 * Scrollbar bug fixed for both widget and operator side
+= April 2015 =
+* Tested on Wordpress 4.2
 
 
 == Screenshots ==
