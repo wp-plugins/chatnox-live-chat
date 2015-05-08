@@ -56,6 +56,7 @@ Answer questions, provide support using Chatnox Live Chat.
 * Scrollbar bug fixed for both widget and operator side
 = April 2015 =
 * Tested on Wordpress 4.2
+* Advanced Localization settings included
 
 
 == Screenshots ==
