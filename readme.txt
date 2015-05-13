@@ -57,6 +57,7 @@ Answer questions, provide support using Chatnox Live Chat.
 = April 2015 =
 * Tested on Wordpress 4.2
 * Advanced Localization settings included
+* Bug fixes done
 
 
 == Screenshots ==
