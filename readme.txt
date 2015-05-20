@@ -10,7 +10,7 @@ Chatnox is a popular Live Chat software used by business worldwide to chat with 
 
 == Description ==
 
-Chatnox is a Super Easy live chat system that adds a beautiful live-chat widget to WordPress. Engage with visitors and convert more sales via live chat.
+<a href="https://www.chatnox.com">Chatnox</a> is a Super Easy live chat system that adds a beautiful live-chat widget to WordPress. Engage with visitors and convert more sales via live chat.
 Answer questions, provide support using Chatnox Live Chat.
 
 **Watch our intro video**
