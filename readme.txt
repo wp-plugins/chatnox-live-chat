@@ -58,6 +58,8 @@ Answer questions, provide support using Chatnox Live Chat.
 * Tested on Wordpress 4.2
 * Advanced Localization settings included
 * Bug fixes done
+= June 2015 =
+* API Key Introduced
 
 
 == Screenshots ==
