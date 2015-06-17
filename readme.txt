@@ -60,6 +60,7 @@ Answer questions, provide support using Chatnox Live Chat.
 * Bug fixes done
 = June 2015 =
 * API Key Introduced
+* changes in fonts
 
 
 == Screenshots ==
