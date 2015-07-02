@@ -15,7 +15,7 @@ Answer questions, provide support using Chatnox Live Chat.
 
 **Watch our intro video**
 
-[youtube http://www.youtube.com/watch?v=aJyP1A-YiWs]
+[youtube https://www.youtube.com/watch?v=Q9n7zU_pevM]
 
 * Super-fast live chat system - Used in 80+ countries.
 * Real-time visitor monitoring allows you to see who’s on your website and live chat with them.
