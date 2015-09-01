@@ -66,6 +66,8 @@ Answer questions, provide support using Chatnox Live Chat.
 * Compatibility Checked
 * Icon replaced on chat bar for consistency.
 * Update for 27-Aug
+= Aug 2015 =
+* Updated
 
 
 == Screenshots ==
