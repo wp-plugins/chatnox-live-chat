@@ -69,7 +69,7 @@ Answer questions, provide support using Chatnox Live Chat.
 = Aug 2015 =
 * Updated
 = Sep 2015 =
-* Updated Six done
+* Updated Seven done
 
 
 
