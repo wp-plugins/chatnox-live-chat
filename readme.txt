@@ -68,6 +68,8 @@ Answer questions, provide support using Chatnox Live Chat.
 * Update for 27-Aug
 = Sep 2015 =
 * Live chat Departments
+* Best Live Chat for Wordpress
+* Free Wodpress Chat Plugin
 
 
 
