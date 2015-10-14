@@ -49,18 +49,18 @@ Answer questions, provide support using Chatnox Live Chat.
 = Feb 2015 =
 * Full new user interface
 * Platform upgrades.
-* Advanced Mobile View Settings
+* Advanced Mobile live chat View Settings
 = March 2015 ==
-* Modificationsin chat handling
-* Advanced Localization Options added.
-* Scrollbar bug fixed for both widget and operator side
+* Modifications in live chat handling
+* Advanced Chat widget Localization Options added.
+* Scrollbar bug fixed for both chat widget and operator side
 = April 2015 =
-* Tested on Wordpress 4.2
+* Live Chat Tested on Wordpress 4.2
 * Advanced Localization settings included
-* Bug fixes done
+* Live Chat Bug fixes done
 = June 2015 =
-* API Key Introduced
-* changes in fonts
+* Chat API Key Introduced
+* changes in live chat widget fonts
 = Aug 2015 =
 * Minor enhancements
 * Compatibility Checked
@@ -70,6 +70,7 @@ Answer questions, provide support using Chatnox Live Chat.
 * Live chat Departments
 * Best Live Chat for Wordpress
 * Free Wodpress Chat Plugin
+* Proactive Live Chat
 
 
 
