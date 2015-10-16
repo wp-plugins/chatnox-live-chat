@@ -1,4 +1,4 @@
-=== Chatnox Live Chat Plugin(Free & Paid Plans) ===
+=== Chatnox Live Chat Plugin (Free & Paid Plans) ===
 Contributors: Chatnox
 Donate link: https://wwww.chatnox.com
 Tags: live chat for wordpress, Chat, chat online, chat plugin, chat software, Chat Widget, customer help, customer support, free chat, free live chat, live chat, live chat plugin, live chat support plugin, live help, live support, live support plugin, online support, support, support plugin, visitor chat, WordPress chat, banckle, Chat, chat button, chat on IM, chat online, clickdesk, contact form, contact plugin, contact us, csupport, facebook chat, free chat, Google chat button, Gtalk button, gtalk chat, help desk, help desk software, helpdesk, IM Chat, live chat, live chat inc, live chat services, live chat software, live chatting, live help, live support, live web chat, livechat, livehelp, livesupport, offline, olark, online chat, online support, phone, php live chat, skype chat, SkypeMe, snapengage, support software, web chat, webchat, Website Chat, wordpress help desk, wordpress live chat, wordpress live chat plugin, zendesk, Zopim, Formilla, Pure Chat, Casengo
